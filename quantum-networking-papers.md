@@ -14,6 +14,12 @@ _Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D.
 Scientific Reports volume 6, Article number: 20463 (2016)<br/>
 Discusses the three generations of quantum repeaters.
 
+## Quantum Routing
+
+**[Routing entanglement in the quantum internet](https://www.nature.com/articles/s41534-019-0139-x.pdf)**<br/>
+_Mihir Pant, Hari Krov, Don Towsley, Leandros Tassiulas, Liang Jiang, Prithwish Basu, Dirk Englund, Saikat Guha_<br/>
+NPJ Nature Partner Journals: 13 March 2019</br>
+
 ## Simulators
 
 **[NetSquid, a discrete-event simulation platform for quantum networks](https://arxiv.org/abs/2010.12535)**<br/>
