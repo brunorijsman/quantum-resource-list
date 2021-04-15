@@ -10,7 +10,7 @@ A curated list of introductory books, articles, online courses, and other online
   * [Hardware](quantum-computing-hardware.md)
   * [Simulators](quantum-computing-simulators.md)
  
-* **Quantum Networking**
+* **Quantum Networking** (excluding Quantum Key Distribution)
   * [Books](quantum-networking-books.md)
   * [Papers](quantum-networking-papers.md)
   * [Online Courses](quantum-networking-online-courses.md)
