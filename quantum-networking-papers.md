@@ -1,11 +1,16 @@
 # Quantum Networking Papers
 
-## Quantum Networking Overviews
+## Quantum Networking Overview
 
 **[The Quantum Internet: Networking Challenges in Distributed Quantum Computing](https://arxiv.org/pdf/1810.08421.pdf)**<br/>
 _Angela Sara Cacciapuoti, Marcello Caleff, Francesco Saverio Cataliotti, Stefano Gherardini, Francesco Tafuri, Giuseppe Bianchi_<br/>
 (2019)<br/>
 General overview of challenges in quantum networking
+
+**[Quantum Networking and Internetworking](https://aqua.sfc.wide.ad.jp/publications/van-meter-networking-review-preprint.pdf)**<br/>
+_Rodney Van Meter_<br/>
+(2012)<br/>
+General introduction to quantum networking.
 
 ## Quantum Network Architecture
 
@@ -44,6 +49,11 @@ Purification and entanglement routing.
 **[Routing entanglement in the quantum internet](https://www.nature.com/articles/s41534-019-0139-x.pdf)**<br/>
 _Mihir Pant, Hari Krov, Don Towsley, Leandros Tassiulas, Liang Jiang, Prithwish Basu, Dirk Englund, Saikat Guha_<br/>
 NPJ Nature Partner Journals: 13 March 2019</br>
+
+**[Optimising repeater schemes for the quantum internet](https://arxiv.org/pdf/2006.12221.pdf)**<br/>
+_Kenneth Goodenough, David Elkouss, and Stephanie Wehner_<br/>
+(2020)</br>
+Optimize scheduling of swaps and purifications.
 
 ## Quantum Network Simulators
 
