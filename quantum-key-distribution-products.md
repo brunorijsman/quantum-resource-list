@@ -46,7 +46,12 @@
 * [Kets Homepage](https://kets-quantum.com/)
 * [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
 
-** MagiQ
+## QNu Labs
+
+* [QNu Labs Homepage](https://www.qnulabs.com/)
+* [Armos QKD](https://www.qnulabs.com/armos-quantum-key-distribution/)
+
+## MagiQ
 
 * [MagiQ Homepage](https://www.magiqtech.com/)
 * [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
