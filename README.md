@@ -18,6 +18,11 @@ A curated list of introductory books, articles, online courses, and other online
   * [Simulators](quantum-networking-simulators.md)
 
 * **Quantum Key Distribution**
+  * [Books](quantum-key-distribution-books.md)
+  * [Papers](quantum-key-distribution-papers.md)
+  * [Online Courses](quantum-key-distribution-online-courses.md)
+  * [Hardware](quantum-key-distribution-hardware.md)
+  * [Simulators](quantum-key-distribution-simulators.md)
 
 * **Quantum Mechanics**
   * [Books](quantum-mechanics-books.md)
