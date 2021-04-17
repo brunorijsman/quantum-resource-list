@@ -1,1 +1,0 @@
-# Quantum Key Distribution Hardware
