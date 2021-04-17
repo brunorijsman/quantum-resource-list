@@ -14,6 +14,12 @@ _Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D.
 Scientific Reports volume 6, Article number: 20463 (2016)<br/>
 Discusses the three generations of quantum repeaters.
 
+**[Spectral multiplexing for scalable quantum photonics using an atomic frequency comb
+quantum memory and feed-forward control](https://arxiv.org/pdf/1309.3202.pdf)**<br/>
+_Neil Sinclair, Erhan Saglamyurek, Hassan Mallahzadeh, Joshua A. Slater, Mathew George, Raimund Ricken, Morgan P. Hedges, Daniel Oblak, Christoph Simon, Wolfgang Sohler, and Wolfgang Tittel_<br/>
+(2014)<br/>
+Spectrally multiplexed quantum repeater hardware.
+
 ## Quantum Routing
 
 **[Routing entanglement in the quantum internet](https://www.nature.com/articles/s41534-019-0139-x.pdf)**<br/>
