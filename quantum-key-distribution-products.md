@@ -11,3 +11,8 @@
 
 * [Toshiba QKD Homepage](https://www.toshiba.co.jp/qkd/en/index.htm)
 * [Multiplexed QKD System and Long Distance QKD System](https://www.toshiba.co.jp/qkd/en/products.htm)
+
+## Quintessence Labs
+
+* [Quintessence Labs Homepage](https://www.quintessencelabs.com/)
+* [qOptica 100 Quantum Key Distribution](https://www.quintessencelabs.com/products/quantum-key-distribution-qkd/)
