@@ -51,6 +51,12 @@
 * [QNu Labs Homepage](https://www.qnulabs.com/)
 * [Armos QKD](https://www.qnulabs.com/armos-quantum-key-distribution/)
 
+## Qubitekk
+
+* [Qubitekk Homepage](http://qubitekk.com/)
+* [QKD Demonstrator for Research](http://qubitekk.com/products/qkd-demonstrator-for-research/)
+* [QKD for Industrial Control Systems (ICS)](http://qubitekk.com/products/qkd-for-industrial-control-systems-ics/)
+
 ## MagiQ
 
 * [MagiQ Homepage](https://www.magiqtech.com/)
