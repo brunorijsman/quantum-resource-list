@@ -61,3 +61,8 @@
 
 * [MagiQ Homepage](https://www.magiqtech.com/)
 * [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
+
+## Taqbit
+
+* [Taqbit Homepage](http://taqbit.com)
+* [Taqbit QKD](http://taqbit.com/qkd.html)
