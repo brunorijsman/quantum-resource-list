@@ -41,3 +41,7 @@
 * [Guo-Dun Quantum-secure Communication Network Management System](http://www.quantum-info.com/English/product/pthree/guankongruanjian/2017/0901/332.html)
 * [Guo-Dun Network Operation and Maintenance System](http://www.quantum-info.com/English/product/pthree/guankongruanjian/2017/0901/333.html)
 
+## Kets
+
+* [Kets Homepage](https://kets-quantum.com/)
+* [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
