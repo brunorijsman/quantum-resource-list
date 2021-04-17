@@ -7,7 +7,7 @@ _Angela Sara Cacciapuoti, Marcello Caleff, Francesco Saverio Cataliotti, Stefano
 (2019)<br/>
 General overview of challenges in quantum networking
 
-## Quantum Repeater Architecture and Protocols
+## Quantum Network Architecture
 
 **[System Design for a Long-Line Quantum Repeater](https://arxiv.org/pdf/0705.4128.pdf)**<br/>
 _Rodney Van Meter, Thaddeus D. Ladd, W.J. Munro, and Kae Nemoto_<br/>
@@ -27,14 +27,19 @@ _Neil Sinclair, Erhan Saglamyurek, Hassan Mallahzadeh, Joshua A. Slater, Mathew 
 (2014)<br/>
 Spectrally multiplexed quantum repeater hardware.
 
-## Quantum Datalink Protocols
+## Quantum Link Layer Protocols
 
 **[A Link Layer Protocol for Quantum Networks](https://arxiv.org/pdf/1903.09778.pdf)**<br/>
 _Axel Dahlberg, Matthew Skrzypczy, Tim Coopmans, Leon Wubben, Filip Rozpędek, Matteo Pompili, Arian Stolk, Przemysław Pawełczak, Robert Knegjens, Julio de Oliveira Filho, Ronald Hanson, Stephanie Wehner_<br/>
 (2019)<br/>
 A quantum datalink protocol.
 
-## Quantum Routing
+## Quantum Network Layer and Routing Protocols
+
+**[Purification and Entanglement Routing on Quantum Networks](https://arxiv.org/pdf/2011.11644.pdf)**<br/>
+_Michelle Victora, Stefan Krastanov, Alexander Sanchez de la Cerda, Steven Willis, and Prineha Narang_<br/>
+(2020)<br/>
+Purification and entanglement routing.
 
 **[Routing entanglement in the quantum internet](https://www.nature.com/articles/s41534-019-0139-x.pdf)**<br/>
 _Mihir Pant, Hari Krov, Don Towsley, Leandros Tassiulas, Liang Jiang, Prithwish Basu, Dirk Englund, Saikat Guha_<br/>
