@@ -27,6 +27,13 @@ _Neil Sinclair, Erhan Saglamyurek, Hassan Mallahzadeh, Joshua A. Slater, Mathew 
 (2014)<br/>
 Spectrally multiplexed quantum repeater hardware.
 
+## Quantum Datalink Protocols
+
+**[A Link Layer Protocol for Quantum Networks](https://arxiv.org/pdf/1903.09778.pdf)**<br/>
+_Axel Dahlberg, Matthew Skrzypczy, Tim Coopmans, Leon Wubben, Filip Rozpędek, Matteo Pompili, Arian Stolk, Przemysław Pawełczak, Robert Knegjens, Julio de Oliveira Filho, Ronald Hanson, Stephanie Wehner_<br/>
+(2019)<br/>
+A quantum datalink protocol.
+
 ## Quantum Routing
 
 **[Routing entanglement in the quantum internet](https://www.nature.com/articles/s41534-019-0139-x.pdf)**<br/>
