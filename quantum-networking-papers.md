@@ -7,12 +7,19 @@ _Angela Sara Cacciapuoti, Marcello Caleff, Francesco Saverio Cataliotti, Stefano
 (2019)<br/>
 General overview of challenges in quantum networking
 
-## Quantum Repeaters
+## Quantum Repeater Architecture and Protocols
+
+**[System Design for a Long-Line Quantum Repeater](https://arxiv.org/pdf/0705.4128.pdf)**<br/>
+_Rodney Van Meter, Thaddeus D. Ladd, W.J. Munro, and Kae Nemoto_<br/>
+(2008)<br/>
+Control algorithm and system design for a network of quantum repeaters. End-to-end protocol architecture.
 
 **[Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463.pdf)**<br/>
 _Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert Lütkenhaus, Mikhail D. Lukin, Liang Jiang_ <br/>
 Scientific Reports volume 6, Article number: 20463 (2016)<br/>
 Discusses the three generations of quantum repeaters.
+
+## Quantum Repeater Hardware
 
 **[Spectral multiplexing for scalable quantum photonics using an atomic frequency comb
 quantum memory and feed-forward control](https://arxiv.org/pdf/1309.3202.pdf)**<br/>
