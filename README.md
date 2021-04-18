@@ -7,7 +7,8 @@ A curated list of introductory books, articles, online courses, and other online
   * [Papers](quantum-computing-papers.md)
   * [Online Courses](quantum-computing-online-courses.md)
   * [Cloud Platforms](quantum-computing-cloud-platforms.md)
-  * [Hardware](quantum-computing-hardware.md)
+  * [Commercial Products](quantum-computing-commercial-products.md)
+  * [Programming Languages and Frameworks](quantum-computing-programming-languages-and-frameworks.md)
   * [Simulators](quantum-computing-simulators.md)
  
 * **Quantum Networking** (excluding Quantum Key Distribution)
