@@ -5,7 +5,7 @@ A curated list of introductory books, papers, courses, and other online resource
 * **Quantum Networking** (excluding Quantum Key Distribution)
   * [Books](quantum-networking-books.md)
   * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YCZ5YBIC)
-  * [Theses](quantum-networking-theses.md)
+  * [Theses](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/3Q9IYKRT)
   * [Online Courses](quantum-networking-online-courses.md)
   * [Hardware](quantum-networking-hardware.md)
   * [Simulators](quantum-networking-simulators.md)
