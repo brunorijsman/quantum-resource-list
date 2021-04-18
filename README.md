@@ -4,7 +4,7 @@ A curated list of introductory books, articles, online courses, and other online
 
 * **Quantum Computing**
   * [Books](quantum-computing-books.md)
-  * [Papers](quantum-computing-papers.md)
+  * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YB29IF3R)
   * [Online Courses](quantum-computing-online-courses.md)
   * [Cloud Platforms](quantum-computing-cloud-platforms.md)
   * [Commercial Products](quantum-computing-commercial-products.md)
@@ -13,7 +13,7 @@ A curated list of introductory books, articles, online courses, and other online
  
 * **Quantum Networking** (excluding Quantum Key Distribution)
   * [Books](quantum-networking-books.md)
-  * [Papers](quantum-networking-papers.md)
+  * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YCZ5YBIC)
   * [Theses](quantum-networking-theses.md)
   * [Online Courses](quantum-networking-online-courses.md)
   * [Hardware](quantum-networking-hardware.md)
@@ -21,7 +21,7 @@ A curated list of introductory books, articles, online courses, and other online
 
 * **Quantum Key Distribution**
   * [Books](quantum-key-distribution-books.md)
-  * [Papers](quantum-key-distribution-papers.md)
+  * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/QA3XYM2G)
   * [Theses](quantum-key-distribution-theses.md)
   * [Online Courses](quantum-key-distribution-online-courses.md)
   * [Commercial Products](quantum-key-distribution-commercial-products.md)
