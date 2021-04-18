@@ -7,7 +7,7 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YCZ5YBIC)
   * [Theses](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/3Q9IYKRT)
   * [Online Courses](quantum-networking-online-courses.md)
-  * [Hardware](quantum-networking-hardware.md)
+  * [Commercial Products](quantum-networking-commercial-products.md)
   * [Simulators](quantum-networking-simulators.md)
 
 * **Quantum Key Distribution**
