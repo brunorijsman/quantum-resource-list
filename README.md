@@ -27,6 +27,7 @@ A curated list of introductory books, articles, online courses, and other online
   * [Commercial Service Providers](quantum-key-distribution-commercial-service-providers.md)
   * [Research and Pilot Networks](quantum-key-distribution-research-and-pilot-networks.md)
   * [Simulators](quantum-key-distribution-simulators.md)
+  * [Open Source Software](quantum-key-distribution-open-source-software.md)
 
 * **Quantum Mechanics**
   * [Books](quantum-mechanics-books.md)
