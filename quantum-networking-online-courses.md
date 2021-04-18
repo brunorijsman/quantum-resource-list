@@ -1,4 +1,4 @@
-# Quantum Networking Online Courses
+# Quantum Networking: Online Courses
 
 ## Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet
 

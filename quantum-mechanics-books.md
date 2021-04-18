@@ -1,4 +1,4 @@
-# Quantum Mechanics Books
+# Quantum Mechanics: Books
 
 ## Quantum Mechanics: The Theoretical Minimum
 

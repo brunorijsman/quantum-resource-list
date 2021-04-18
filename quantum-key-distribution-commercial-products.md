@@ -1,4 +1,4 @@
-# Quantum Key Distribution Commercial Products
+# Quantum Key Distribution: Commercial Products
 
 ## ID Quantique (IDQ)
 

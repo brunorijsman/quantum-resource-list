@@ -1,4 +1,4 @@
-# Quantum Networking Books
+# Quantum Networking: Books
 
 ## Quantum Networking (Networks and Telecommunications)
 

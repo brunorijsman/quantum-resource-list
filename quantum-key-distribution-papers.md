@@ -1,4 +1,4 @@
-# Quantum Key Distribution Papers
+# Quantum Key Distribution: Papers
 
 ## Key Rate
 

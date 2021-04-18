@@ -1,4 +1,4 @@
-# Quantum Computing Papers
+# Quantum Computing: Papers
 
 ## Simulators
 

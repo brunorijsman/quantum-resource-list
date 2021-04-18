@@ -1,4 +1,4 @@
-# Quantum Computing Online Courses
+# Quantum Computing: Online Courses
 
 ## The Building Blocks of a Quantum Computer
 

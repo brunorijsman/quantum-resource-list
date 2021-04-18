@@ -1,4 +1,4 @@
-# Quantum Networking Papers
+# Quantum Networking: Papers
 
 ## Quantum Networking Overview
 

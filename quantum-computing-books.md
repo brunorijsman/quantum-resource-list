@@ -1,4 +1,4 @@
-# Quantum Computing Books
+# Quantum Computing: Books
 
 ## Quantum Computing for Computer Scientists
 

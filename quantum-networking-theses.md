@@ -1,1 +1,1 @@
-# Quantum Networking Theses
+# Quantum Networking: Theses

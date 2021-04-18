@@ -23,8 +23,9 @@ A curated list of introductory books, articles, online courses, and other online
   * [Papers](quantum-key-distribution-papers.md)
   * [Theses](quantum-key-distribution-theses.md)
   * [Online Courses](quantum-key-distribution-online-courses.md)
-  * [Commercial Products](quantum-key-distribution-products.md)
-  * [Service Providers](quantum-key-distribution-service-providers.md)
+  * [Commercial Products](quantum-key-distribution-commercial-products.md)
+  * [Commercial Service Providers](quantum-key-distribution-commercial-service-providers.md)
+  * [Research and Pilot Networks](quantum-key-distribution-research-and-pilot-networks.md)
   * [Simulators](quantum-key-distribution-simulators.md)
 
 * **Quantum Mechanics**

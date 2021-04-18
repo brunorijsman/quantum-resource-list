@@ -1,4 +1,4 @@
-# Quantum Key Distribution Simulators
+# Quantum Key Distribution: Simulators
 
 ## QKDNetSim
 

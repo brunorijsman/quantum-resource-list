@@ -1,4 +1,4 @@
-# Quantum Mechanics Online Courses
+# Quantum Mechanics: Online Courses
 
 ## Quantum Physics I
 

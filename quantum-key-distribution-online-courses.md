@@ -1,4 +1,4 @@
-# Quantum Key Distribution Online Courses
+# Quantum Key Distribution: Online Courses
 
 ## Quantum Cryptography
 

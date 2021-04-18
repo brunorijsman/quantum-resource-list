@@ -1,4 +1,4 @@
-# Quantum Computing Cloud Platforms
+# Quantum Computing: Cloud Platforms
 
 # IBM Quantum
 

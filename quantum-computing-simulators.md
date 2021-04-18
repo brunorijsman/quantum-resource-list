@@ -1,1 +1,1 @@
-# Quantum Computing Simulators
+# Quantum Computing: Simulators
