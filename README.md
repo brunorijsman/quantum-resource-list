@@ -23,7 +23,7 @@ A curated list of introductory books, articles, online courses, and other online
   * [Papers](quantum-key-distribution-papers.md)
   * [Theses](quantum-key-distribution-theses.md)
   * [Online Courses](quantum-key-distribution-online-courses.md)
-  * [Products](quantum-key-distribution-products.md)
+  * [Commercial Products](quantum-key-distribution-products.md)
   * [Service Providers](quantum-key-distribution-service-providers.md)
   * [Simulators](quantum-key-distribution-simulators.md)
 
