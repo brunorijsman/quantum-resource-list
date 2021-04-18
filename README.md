@@ -29,8 +29,8 @@ A curated list of introductory books, articles, online courses, and other online
   * [Simulators](quantum-key-distribution-simulators.md)
   * [Open Source Software](quantum-key-distribution-open-source-software.md)
 
-* **Quantum Mechanics**
-  * [Books](quantum-mechanics-books.md)
-  * [Online Courses](quantum-mechanics-online-courses.md)
+* **Quantum Physics** (introductory material)
+  * [Books](quantum-physics-books.md)
+  * [Online Courses](quantum-physics-online-courses.md)
 
 
