@@ -1,8 +1,3 @@
 # Quantum Key Distribution: Papers
 
-## Key Rate
-
-**[Key rates for quantum key distribution protocols with asymmetric noise](https://arxiv.org/pdf/2002.07305.pdf)**<br/>
-_Gláucia Murta, Filip Rozpędek, Jérémy Ribeiro, David Elkouss, and Stephanie Wehner_<br/>
-(2020)<br/>
-Asymptotic key rates for BB84 and six-state protocol in the presence of non-uniform noise.
+[Zotero public list of Quantum Key Distribution papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/QA3XYM2G)
