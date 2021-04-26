@@ -3,6 +3,9 @@
         "Braket",
         "IONQ",
         "Zwiebach",
+        "ldpc",
+        "liboqs",
+        "multiplicator",
         "rigetti"
     ],
     "restructuredtext.confPath": ""
