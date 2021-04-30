@@ -1,4 +1,4 @@
-# Quantum Computing: Hardware
+# Quantum Computing: Quantum Computer Companies
 
 ## IBM
 

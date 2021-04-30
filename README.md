@@ -21,17 +21,17 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Simulators](quantum-key-distribution-simulators.md)
   * [Open Source Software](quantum-key-distribution-open-source-software.md)
 
+* **Quantum Controllers**
+  * [Companies](quantum-controllers-companies.md)
+
 * **Quantum Computing**
   * [Books](quantum-computing-books.md)
   * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YB29IF3R)
   * [Online Courses](quantum-computing-online-courses.md)
   * [Cloud Platforms](quantum-computing-cloud-platforms.md)
-  * [Commercial Products](quantum-computing-commercial-products.md)
+  * [Companies: Quantum Computers](quantum-computing-companies-quantum-computers.md)
   * [Programming Languages and Frameworks](quantum-computing-programming-languages-and-frameworks.md)
   * [Simulators](quantum-computing-simulators.md)
-
-* **Quantum Controllers**
-  * [Companies](quantum-controllers-companies.md)
 
 * **Quantum Physics** (introductory material)
   * [Books](quantum-physics-books.md)
