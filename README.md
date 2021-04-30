@@ -7,7 +7,7 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/YCZ5YBIC)
   * [Theses](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/3Q9IYKRT)
   * [Online Courses](quantum-networking-online-courses.md)
-  * [Commercial Products](quantum-networking-commercial-products.md)
+  * [Companies](quantum-networking-companies.md)
   * [Simulators](quantum-networking-simulators.md)
 
 * **Quantum Key Distribution**
@@ -15,7 +15,7 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Papers](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/QA3XYM2G)
   * [Theses](quantum-key-distribution-theses.md)
   * [Online Courses](quantum-key-distribution-online-courses.md)
-  * [Commercial Products](quantum-key-distribution-commercial-products.md)
+  * [Product Companies](quantum-key-distribution-product-companies.md)
   * [Commercial Service Providers](quantum-key-distribution-commercial-service-providers.md)
   * [Research and Pilot Networks](quantum-key-distribution-research-and-pilot-networks.md)
   * [Simulators](quantum-key-distribution-simulators.md)
@@ -29,7 +29,10 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Commercial Products](quantum-computing-commercial-products.md)
   * [Programming Languages and Frameworks](quantum-computing-programming-languages-and-frameworks.md)
   * [Simulators](quantum-computing-simulators.md)
- 
+
+* **Quantum Controllers**
+  * [Companies](quantum-controllers-companies.md)
+
 * **Quantum Physics** (introductory material)
   * [Books](quantum-physics-books.md)
   * [Online Courses](quantum-physics-online-courses.md)

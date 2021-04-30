@@ -1,4 +1,4 @@
-# Quantum Networking: Commercial Products
+# Quantum Networking: Companies
 
 Quantum Key Distribution commercial products are listed [separately](quantum-key-distribution-commercial-products.md).
 
