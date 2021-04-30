@@ -32,6 +32,7 @@ A curated list of introductory books, papers, courses, and other online resource
   * [Companies: Quantum Computers](quantum-computing-companies-quantum-computers.md)
   * [Programming Languages and Frameworks](quantum-computing-programming-languages-and-frameworks.md)
   * [Simulators](quantum-computing-simulators.md)
+  * [Other Resource Lists](quantum-computing-resources.md)
 
 * **Quantum Physics** (introductory material)
   * [Books](quantum-physics-books.md)
