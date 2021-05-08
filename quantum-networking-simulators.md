@@ -34,3 +34,9 @@ Simulator for Quantum Networks and Channels
 
 A fast design tool for spontaneous parametric down conversion sources
 * [SPDCalc Homepage](https://spdcalc.org/)
+
+## QuNet
+
+An open source scalable quantum network simulator based on cost vector analysis implemented in Julia.
+* [QuNet Homepage](https://peterrohde.github.io/QuNet/)
+* [QuNet GitHub Repository](https://github.com/peterrohde/QuNet)
