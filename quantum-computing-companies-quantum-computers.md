@@ -31,6 +31,30 @@
 
 * [Zapata Homepage](https://www.zapatacomputing.com/)
 
+## D-Wave Systems
+
+* [D-Wave Systems Homepage](https://www.dwavesys.com/)
+
 ## IQM
 
 * [IQM Homepage](https://www.meetiqm.com/)
+
+## Oxford Quantum Circuits
+
+* [Oxford Quantum Circuits Homepage](https://oxfordquantumcircuits.com/)
+
+## Quantum Circuits Inc (QCI)
+
+* [Quantum Circuits Inc (QCI) Homepage](https://quantumcircuits.com/)
+
+## Alpine Quantum Technologies (AQT)
+
+* [Alpine Quantum Technologies (AQT) Homepage](https://www.aqt.eu/)
+
+## Alibaba
+
+* [Alibaba Quantum Lab Homepage](https://damo.alibaba.com/labs/quantum)
+
+## Origin Quantum
+
+* [Origin Quantum Homepage](http://www.originqc.com.cn/en/website/companyProfile.html)
