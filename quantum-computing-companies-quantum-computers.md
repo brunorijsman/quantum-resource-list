@@ -2,32 +2,35 @@
 
 ## IBM
 
-* https://www.ibm.com/quantum-computing/systems/
-* https://quantum-computing.ibm.com/
+* [IBM Quantum Computer Systems Homepage](https://www.ibm.com/quantum-computing/systems/)
+* [IBM Quantum Computing Homepage](https://quantum-computing.ibm.com/)
 
 ## Google
 
-* https://research.google/teams/applied-science/quantum/
-* https://research.google/research-areas/quantum-computing/
-* https://quantumai.google/
+* [Google Quantum AI Homepage](https://quantumai.google/)
+* [Google Research, Quantum Applied Science Team Homepage](https://research.google/teams/applied-science/quantum/)
+* [Google Research, Quantum Computing Research Area Homepage](https://research.google/research-areas/quantum-computing/)
 
 ## Rigetti
 
-* https://www.rigetti.com/
+* [Rigetti Homepage](https://www.rigetti.com/)
 
 ## IONQ
 
-* https://ionq.com/
+* [IONQ Homepage](https://ionq.com/)
 
 ## Xanadu
 
-* https://www.xanadu.ai/
+* [Xanadu Homepage](https://www.xanadu.ai/)
 
 ## ColdQuanta
 
-* https://coldquanta.com/
+* [ColdQuanta Homepage](https://coldquanta.com/)
 
 ## Zapata
 
-* https://www.zapatacomputing.com/
+* [Zapata Homepage](https://www.zapatacomputing.com/)
 
+## IQM
+
+* [IQM Homepage](https://www.meetiqm.com/)
