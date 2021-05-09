@@ -55,6 +55,14 @@
 
 * [Atom Computing Homepage](https://www.atom-computing.com/)
 
+## Alice & Bob
+
+* [Alice & Bob Homepage](https://alice-bob.com/)
+
+## Anyon
+
+* [Anyon Homepage](https://anyonsys.com/)
+
 ## Alibaba
 
 * [Alibaba Quantum Lab Homepage](https://damo.alibaba.com/labs/quantum)

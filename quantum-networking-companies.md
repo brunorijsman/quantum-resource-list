@@ -10,6 +10,11 @@ Quantum Key Distribution commercial products are listed [separately](quantum-key
 
 * [Qunnect Homepage](https://int.quconn.com/)
 
+## Miraex
+
+* [Miraex Homepage](https://www.miraex.com/)
+* [Miraex Quantum Networking and Computing](https://www.miraex.com/applications/quantum-networking-computing)
+
 ## Cisco Systems
 
 * [Article on Cisco's investments in quantum networking.](https://thequantumdaily.com/2021/02/11/cisco-showing-signs-that-its-gearing-up-for-a-long-term-quantum-future/)

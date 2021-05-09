@@ -33,6 +33,7 @@ Quantum Information Theory.
   * [Online Courses](quantum-computing-online-courses.md)
   * [Cloud Platforms](quantum-computing-cloud-platforms.md)
   * [Companies: Quantum Computers](quantum-computing-companies-quantum-computers.md)
+  * [Companies: Quantum Software](quantum-computing-companies-quantum-software.md)
   * [Programming Languages and Frameworks](quantum-computing-programming-languages-and-frameworks.md)
   * [Simulators](quantum-computing-simulators.md)
   * [Other Resource Lists](quantum-computing-resources.md)
