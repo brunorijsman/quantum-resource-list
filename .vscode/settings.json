@@ -15,6 +15,7 @@
         "ldpc",
         "liboqs",
         "multiplicator",
+        "qubit",
         "rigetti"
     ],
     "restructuredtext.confPath": ""
