@@ -49,6 +49,13 @@ by Hassi Norlén<br/>
 
 ![Quantum Computing in Practice Cover](https://images-na.ssl-images-amazon.com/images/I/4178wbT+9VL._SX403_BO1,204,203,200_.jpg)
 
+## Learn Quantum Computing with Python and Q#: A hands-on approach
+
+by Sarah C. Kaiser and Christopher Granade<br/>
+[https://www.amazon.com/dp/1617296139](https://www.amazon.com/dp/1617296139)
+
+![Learn Quantum Computing with Python and Q# Cover](https://images-na.ssl-images-amazon.com/images/I/51KuDRyOy-L._SX397_BO1,204,203,200_.jpg)
+
 ## Quantum Information Processing, Quantum Computing, and Quantum Error Correction: An Engineering Approach
 
 by Ivan B. Djordjevic<br/>
@@ -146,3 +153,11 @@ by A. Yu. Kitaev<br/>
 [https://www.amazon.com/Classical-Quantum-Computation-Graduate-Mathematics/dp/0821832298](https://www.amazon.com/Classical-Quantum-Computation-Graduate-Mathematics/dp/0821832298)
 
 ![Classical and Quantum Computation Cover](https://images-na.ssl-images-amazon.com/images/I/418WCBH8JQL._SX338_BO1,204,203,200_.jpg)
+
+## Quantum Computer Systems: Research for Noisy Intermediate-Scale Quantum Computers
+
+by Yongshan Ding and Chong T. Frederic<br/>
+[https://www.amazon.com/dp/168173866X](https://www.amazon.com/dp/168173866X)
+
+![Quantum Computer Systems Cover](https://images-na.ssl-images-amazon.com/images/I/510xq4TIAdL._SX404_BO1,204,203,200_.jpg)
+
