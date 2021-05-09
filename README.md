@@ -1,6 +1,9 @@
-# Quantum Resource List
+# Quantum Networking Resource List
 
-A curated list of introductory books, papers, courses, and other online resources related to Quantum Networking, Quantum Key Distribution, and Quantum Computing.
+[Bruno Rijsman](https://www.linkedin.com/in/brunorijsman/)'s lovingly hand-curated list of
+introductory books, papers, courses, and other online resources related to Quantum Networking,
+Quantum Communications, Quantum Key Distribution, and (to a lesser extent) Quantum Computing and
+Quantum Information Theory.
 
 * **Quantum Networking** (excluding Quantum Key Distribution)
   * [Books](quantum-networking-books.md)
