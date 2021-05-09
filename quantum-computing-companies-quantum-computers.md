@@ -51,6 +51,10 @@
 
 * [Alpine Quantum Technologies (AQT) Homepage](https://www.aqt.eu/)
 
+## Atom Computing
+
+* [Atom Computing Homepage](https://www.atom-computing.com/)
+
 ## Alibaba
 
 * [Alibaba Quantum Lab Homepage](https://damo.alibaba.com/labs/quantum)
