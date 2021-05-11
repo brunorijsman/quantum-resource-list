@@ -161,3 +161,10 @@ by Yongshan Ding and Chong T. Frederic<br/>
 
 ![Quantum Computer Systems Cover](https://images-na.ssl-images-amazon.com/images/I/510xq4TIAdL._SX404_BO1,204,203,200_.jpg)
 
+## Quantum Computing: Program Next-Gen Computers for Hard, Real-World Applications
+
+by Nihal Mehta Ph. D.<br/>
+[https://www.amazon.com/Quantum-Computing-Computers-Real-World-Applications/dp/1680507206](https://www.amazon.com/Quantum-Computing-Computers-Real-World-Applications/dp/1680507206)
+
+![Quantum Computing: Program Next-Gen Computers for Hard, Real-World Applications Cover](https://images-na.ssl-images-amazon.com/images/I/41lJx-mZXOL._SX415_BO1,204,203,200_.jpg)
+

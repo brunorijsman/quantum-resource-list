@@ -27,3 +27,10 @@ by John Watrous<br/>
 [https://www.amazon.com/Theory-Quantum-Information-John-Watrous/dp/1107180562](https://www.amazon.com/Theory-Quantum-Information-John-Watrous/dp/1107180562)
 
 ![The Theory of Quantum Information Cover](https://images-na.ssl-images-amazon.com/images/I/31iWENRSD-L._SX328_BO1,204,203,200_.jpg)
+
+## Quantum Communication and Quantum Networking: First International Conference, QuantumComm 2009, Naples, Italy, October 26-30, 2009
+
+by Alexander V Sergienko<br/>
+[https://www.amazon.com/Quantum-Communication-Networking-International-QuantumComm/dp/B0108CZCAM](https://www.amazon.com/Quantum-Communication-Networking-International-QuantumComm/dp/B0108CZCAM)
+
+![Quantum Communication and Quantum Networking Cover](https://images-na.ssl-images-amazon.com/images/I/41hPIHLVWhL._SX370_BO1,204,203,200_.jpg)
