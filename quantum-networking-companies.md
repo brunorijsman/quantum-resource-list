@@ -15,6 +15,10 @@ Quantum Key Distribution commercial products are listed [separately](quantum-key
 * [Miraex Homepage](https://www.miraex.com/)
 * [Miraex Quantum Networking and Computing](https://www.miraex.com/applications/quantum-networking-computing)
 
+## Next Generation Quantum (NGQ)
+
+* [Next Generation Quantum Homepage](https://www.ngq.io/)
+
 ## Qunnect
 
 * [Qunnect Homepage](https://int.quconn.com/)

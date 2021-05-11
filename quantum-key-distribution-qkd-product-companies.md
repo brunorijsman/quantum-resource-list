@@ -7,6 +7,10 @@
 * [Clavis3 QKD Platform](https://www.idquantique.com/quantum-safe-security/products/clavis3-qkd-platform-rd/)
 * [Clavis300 Quantum Cryptography Platform](https://www.idquantique.com/quantum-safe-security/products/clavis300-quantum-cryptography-platform/)
 
+## KeeQuant
+
+* [KeeQuant Homepage](https://keequant.com/)
+
 ## Kets
 
 * [Kets Homepage](https://kets-quantum.com/)

@@ -1,5 +1,9 @@
 # Quantum Key Distribution: Commercial Service Providers
 
+## KPN
+
+* [KPN Post-Quantum Wireguard](https://www.kpn.com/security-blogs/next-generation-vpn-post-quantum-wireguard.htm)
+
 ## QuantumXChange
 
 * [QuantumXChange Homepage](https://quantumxc.com/)

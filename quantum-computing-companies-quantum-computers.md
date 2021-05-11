@@ -1,12 +1,12 @@
 # Quantum Computing Companies: Quantum Computers
 
-## Alice & Bob
-
-* [Alice & Bob Homepage](https://alice-bob.com/)
-
 ## Alibaba
 
 * [Alibaba Quantum Lab Homepage](https://damo.alibaba.com/labs/quantum)
+
+## Alice & Bob
+
+* [Alice & Bob Homepage](https://alice-bob.com/)
 
 ## Alpine Quantum Technologies (AQT)
 
@@ -34,10 +34,26 @@
 * [Google Research, Quantum Applied Science Team Homepage](https://research.google/teams/applied-science/quantum/)
 * [Google Research, Quantum Computing Research Area Homepage](https://research.google/research-areas/quantum-computing/)
 
+## Hitachi
+
+* [Hitachi Cambridge Laboratory: Quantum Information Processing](http://www.hit.phy.cam.ac.uk/Projects/QIP.php)
+
+## Honeywell
+
+* [Honeywell Quantum Solutions Homepage](https://www.honeywell.com/us/en/company/quantum)
+
 ## IBM
 
 * [IBM Quantum Computer Systems Homepage](https://www.ibm.com/quantum-computing/systems/)
 * [IBM Quantum Computing Homepage](https://quantum-computing.ibm.com/)
+
+## IMEC
+
+* [IMEC Quantum Computing](https://www.imec-int.com/en/quantum-computing)
+
+## Intel
+
+* [Intel Quantum Computing](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
 
 ## IONQ
 
@@ -70,6 +86,14 @@
 ## Quantum Circuits Inc (QCI)
 
 * [Quantum Circuits Inc (QCI) Homepage](https://quantumcircuits.com/)
+
+## QuEra
+
+* [QuEra Homepage](https://www.quera-computing.com/)
+
+## QRDLab
+
+* [QRDLab Homepage](https://www.qrdlab.com/)
 
 ## Rigetti
 
