@@ -1,4 +1,4 @@
-# Quantum Computing: Quantum Computer Companies
+# Quantum Computing Companies: Quantum Computers
 
 ## Alice & Bob
 

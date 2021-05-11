@@ -1,4 +1,4 @@
-# Quantum Computing: Quantum Software Companies
+# Quantum Computing Companies: Quantum Software
 
 ## 1Qbit
 
