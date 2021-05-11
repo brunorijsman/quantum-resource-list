@@ -6,15 +6,16 @@ Quantum Key Distribution commercial products are listed [separately](quantum-key
 
 * [Aliro Homepage](https://www.aliroquantum.com/)
 
-## Qunnect
+## Cisco Systems
 
-* [Qunnect Homepage](https://int.quconn.com/)
+* [Article on Cisco's investments in quantum networking.](https://thequantumdaily.com/2021/02/11/cisco-showing-signs-that-its-gearing-up-for-a-long-term-quantum-future/)
 
 ## Miraex
 
 * [Miraex Homepage](https://www.miraex.com/)
 * [Miraex Quantum Networking and Computing](https://www.miraex.com/applications/quantum-networking-computing)
 
-## Cisco Systems
+## Qunnect
 
-* [Article on Cisco's investments in quantum networking.](https://thequantumdaily.com/2021/02/11/cisco-showing-signs-that-its-gearing-up-for-a-long-term-quantum-future/)
+* [Qunnect Homepage](https://int.quconn.com/)
+

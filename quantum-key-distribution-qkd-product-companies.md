@@ -1,4 +1,4 @@
-# Quantum Key Distribution: Product Companies
+# Quantum Key Distribution: QKD Product Companies
 
 ## ID Quantique (IDQ)
 
@@ -7,15 +7,20 @@
 * [Clavis3 QKD Platform](https://www.idquantique.com/quantum-safe-security/products/clavis3-qkd-platform-rd/)
 * [Clavis300 Quantum Cryptography Platform](https://www.idquantique.com/quantum-safe-security/products/clavis300-quantum-cryptography-platform/)
 
-## Toshiba
+## Kets
 
-* [Toshiba QKD Homepage](https://www.toshiba.co.jp/qkd/en/index.htm)
-* [Multiplexed QKD System and Long Distance QKD System](https://www.toshiba.co.jp/qkd/en/products.htm)
+* [Kets Homepage](https://kets-quantum.com/)
+* [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
 
-## Quintessence Labs
+## MagiQ
 
-* [Quintessence Labs Homepage](https://www.quintessencelabs.com/)
-* [qOptica 100 Quantum Key Distribution](https://www.quintessencelabs.com/products/quantum-key-distribution-qkd/)
+* [MagiQ Homepage](https://www.magiqtech.com/)
+* [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
+
+## QNu Labs
+
+* [QNu Labs Homepage](https://www.qnulabs.com/)
+* [Armos QKD](https://www.qnulabs.com/armos-quantum-key-distribution/)
 
 ## QuantumCTek
 
@@ -41,28 +46,23 @@
 * [Guo-Dun Quantum-secure Communication Network Management System](http://www.quantum-info.com/English/product/pthree/guankongruanjian/2017/0901/332.html)
 * [Guo-Dun Network Operation and Maintenance System](http://www.quantum-info.com/English/product/pthree/guankongruanjian/2017/0901/333.html)
 
-## Kets
-
-* [Kets Homepage](https://kets-quantum.com/)
-* [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
-
-## QNu Labs
-
-* [QNu Labs Homepage](https://www.qnulabs.com/)
-* [Armos QKD](https://www.qnulabs.com/armos-quantum-key-distribution/)
-
 ## Qubitekk
 
 * [Qubitekk Homepage](http://qubitekk.com/)
 * [QKD Demonstrator for Research](http://qubitekk.com/products/qkd-demonstrator-for-research/)
 * [QKD for Industrial Control Systems (ICS)](http://qubitekk.com/products/qkd-for-industrial-control-systems-ics/)
 
-## MagiQ
+## Quintessence Labs
 
-* [MagiQ Homepage](https://www.magiqtech.com/)
-* [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
+* [Quintessence Labs Homepage](https://www.quintessencelabs.com/)
+* [qOptica 100 Quantum Key Distribution](https://www.quintessencelabs.com/products/quantum-key-distribution-qkd/)
 
 ## Taqbit
 
 * [Taqbit Homepage](http://taqbit.com)
 * [Taqbit QKD](http://taqbit.com/qkd.html)
+
+## Toshiba
+
+* [Toshiba QKD Homepage](https://www.toshiba.co.jp/qkd/en/index.htm)
+* [Multiplexed QKD System and Long Distance QKD System](https://www.toshiba.co.jp/qkd/en/products.htm)
