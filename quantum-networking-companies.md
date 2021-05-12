@@ -1,6 +1,9 @@
 # Quantum Networking: Companies
 
-Quantum Key Distribution commercial products are listed [separately](quantum-key-distribution-commercial-products.md).
+See separate lists for
+[Quantum Key Distribution (QKD) companies](quantum-key-distribution-qkd-product-companies.md)
+and
+[Post Quantum Crypto (PQC) companies](quantum-key-distribution-pqc-product-companies.md)
 
 ## AeqiQ
 
