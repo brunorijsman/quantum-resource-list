@@ -2,6 +2,12 @@
 
 Quantum Key Distribution commercial products are listed [separately](quantum-key-distribution-commercial-products.md).
 
+## AeqiQ
+
+High-performance quantum photonic systems with on-demand single photons.
+
+* [AeqiQ Homepage](https://www.aegiq.com/)
+
 ## Aliro
 
 Aliro Quantum Entanglement as a Service (EaaS) enables 100% secure networks of today and the quantum internet of tomorrow.

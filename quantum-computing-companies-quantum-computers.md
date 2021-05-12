@@ -14,6 +14,9 @@
 
 ## Anyon
 
+We design and manufacture superconducting quantum processing units (QPUs), quantum control
+electronics as well as ultra-low temperature cryogenics systems which host QPUs.
+
 * [Anyon Homepage](https://anyonsys.com/)
 
 ## Atom Computing

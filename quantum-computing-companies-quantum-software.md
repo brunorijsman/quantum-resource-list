@@ -4,9 +4,17 @@
 
 * [1Qbit Homepage](https://1qbit.com/)
 
+## AQuantum Software Engineering
+
+Quantum Software Engineering and Development.
+
+* [AQuantum Software Engineering Homepage](https://www.aquantum.es/)
+
 ## A*Quantum
 
-* [A*Quantum Homepage](https://a-star-quantum.jp/index_en.html)## Agnostiq
+* [A*Quantum Homepage](https://a-star-quantum.jp/index_en.html)
+
+## Agnostiq
 
 * [Agnostiq Homepage](https://agnostiq.ai/)
 
@@ -16,7 +24,16 @@
 
 ## Apex Qubit
 
+Harnessing frontier technologies for discovery of new medicines and better healthcare for humanity.
+
 * [Apex Qubit Homepage](https://www.apexqubit.com/)
+
+## Apply Science
+
+Develop code for a quantum computers for products and services in quantum artificial intelligence,
+mainly focusing on quantum neural networks virtual drug development.
+
+* [Apply Science Homepage](https://www.applyscience.it/quantum-division/)
 
 ## Classiq
 
