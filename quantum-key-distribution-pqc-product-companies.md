@@ -1,4 +1,4 @@
-# Quantum Key Distribution: PQC Product Companies
+# Post Quantum Cryptography (PQC) Companies
 
 ## Alternatio
 
