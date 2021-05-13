@@ -48,6 +48,15 @@ mainly focusing on quantum neural networks virtual drug development.
 
 * [Apply Science Homepage](https://www.applyscience.it/quantum-division/)
 
+## Cambridge Quantum Computing (CQC)
+
+CQC is a world leading independent quantum computing company that develops architecture-agnostic,
+enterprise quantum solutions to tackle some of industry’s most intriguing challenges.
+We are a globally recognized leader in all of our fields including quantum chemistry, quantum
+machine learning, quantum cybersecurity and quantum software.
+
+* [Cambridge Quantum Computing (CQC) Homepage](https://cambridgequantum.com/)
+
 ## Classiq
 
 Creating quantum algorithms today means being bound by meticulous low-level coding, or the 
