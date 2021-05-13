@@ -15,6 +15,7 @@ Quantum Information Theory.
   * [Quantum Sensors Companies](companies-quantum-sensors.md)
   * [Quantum Component Companies](companies-quantum-components.md)
   * [Quantum Controller Companies](companies-quantum-controllers.md)
+  * [Quantum Consulting Companies](companies-quantum-consulting.md)
 
 * **Quantum Networking** (excluding Quantum Key Distribution)
   * [Books](quantum-networking-books.md)
