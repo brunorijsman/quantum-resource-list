@@ -139,6 +139,16 @@ implement them as SaaS in our SDK/Toolbox.
 
 * [Multiverse Computing Homepage](https://www.multiversecomputing.com/)
 
+## Phasecraft
+
+Phasecraft is developing the fundamental quantum theory and software that will enable quantum
+computers to: investigate novel quantum materials, helping to develop better batteries and more
+efficient solar cells; simulate chemical reactions, helping to discover new catalysts and optimise
+key industrial processes; and solve hard constraint satisfaction problems, helping to make the most
+of scarce resources in logistics.
+
+* [Phasecraft Homepage](https://www.phasecraft.io/)
+
 ## Quantum Benchmark
 
 For users and makers of quantum computers, our software measures, optimizes, and validates the
