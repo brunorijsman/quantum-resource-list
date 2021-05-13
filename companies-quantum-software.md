@@ -188,6 +188,12 @@ free binding energy of molecules with the highest accuracy.
 
 * [QxBranch acquired by Rigetti](https://www.prnewswire.com/news-releases/rigetti-computing-acquires-qxbranch-to-expand-full-stack-capabilities-300882977.html)
 
+## Rahko
+
+Rahko is solving drug discovery with quantum machine learning.
+
+* [Rahko Homepage](https://rahko.ai/)
+
 ## Solid State AI
 
 Solid State AI) develops & deploys machine learning software that advanced manufacturers use to
