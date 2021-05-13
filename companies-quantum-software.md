@@ -91,36 +91,39 @@ applications, making the power of quantum computing accessible to every software
 
 * [Horizon Homepage](http://horizonquantum.com/)
 
-## HRL Laboratories
-
-HRL Laboratories is a world leader in developing solid-state technology for quantum computing and
-networking. We are advancing a variety of technologies including silicon heterostructure quantum dot
-qubits, silicon carbide photonics, superconducting nanowire single photon detectors, chip-scale
-atom-optics components, and microwave-dot hybrid systems.
-
-* [HRL Quantum Science & Engineering](https://quantum.hrl.com/)
-
 ## Multiverse Computing
+
+Proprietary quantum and quantum-inspired algorithms to solve the hardest problems in finance. We
+implement them as SaaS in our SDK/Toolbox.
 
 * [Multiverse Computing Homepage](https://www.multiversecomputing.com/)
 
 ## Quantum Benchmark
 
+For users and makers of quantum computers, our software measures, optimizes, and validates the
+capacity of any quantum hardware platform to perform any user-supplied algorithm to any
+user-specified precision.
+
 * [Quantum Benchmark Homepage](https://quantumbenchmark.com/)
 
-## Quantum Brilliance
-
-* [Quantum Brilliance Homepage](https://quantumbrilliance.com/)
-
 ## Quantum Computing Inc.
+
+A quantum-assist for your business optimization problems.
 
 * [Quantum Computing Inc. Homepage](https://www.quantumcomputinginc.com/)
 
 ## Quantum Thought
 
+Quantum Thought is the world’s premier quantum computing launchpad for the founding generation of
+quantum computing applications. We'll work with your team to apply the latest in quantum computing
+breakthroughs to keep your data safe, and your capabilities miles ahead of the competition.
+
 * [Quantum Thought Homepage](https://www.quthought.com/)
 
 ## Qubit Pharmaceuticals
+
+We accelerate drug discovery with quantum physics. Our platform allows the calculation of absolute
+free binding energy of molecules with the highest accuracy.
 
 * [Qubit Pharmaceuticals Homepage](https://qubit-pharmaceuticals.com/)
 
@@ -129,6 +132,8 @@ atom-optics components, and microwave-dot hybrid systems.
 * [QxBranch acquired by Rigetti](https://www.prnewswire.com/news-releases/rigetti-computing-acquires-qxbranch-to-expand-full-stack-capabilities-300882977.html)
 
 ## Strangeworks
+
+Strangeworks QC is used by thousands of researchers, developers, and companies around the world to learn, teach, create, and collaborate on quantum computing projects.
 
 * [Strangeworks Homepage](https://strangeworks.com/)
 

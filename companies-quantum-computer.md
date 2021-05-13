@@ -86,6 +86,12 @@ electronics as well as ultra-low temperature cryogenics systems which host QPUs.
 
 * [Quandela Homepage](https://quandela.com/)
 
+## Quantum Brilliance
+
+Room Temperature Nitrogen-Vacancy Diamond Quantum Accelerators. Generation 1 is available now.
+
+* [Quantum Brilliance Homepage](https://quantumbrilliance.com/)
+
 ## Quantum Circuits Inc (QCI)
 
 * [Quantum Circuits Inc (QCI) Homepage](https://quantumcircuits.com/)
