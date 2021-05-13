@@ -31,6 +31,10 @@ electronics as well as ultra-low temperature cryogenics systems which host QPUs.
 
 * [D-Wave Systems Homepage](https://www.dwavesys.com/)
 
+## Duality Quantum Photonics
+
+* [Duality Quantum Photonics Homepage](https://www.dualityqp.com/)
+
 ## Google
 
 * [Google Quantum AI Homepage](https://quantumai.google/)
