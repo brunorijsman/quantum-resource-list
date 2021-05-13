@@ -6,6 +6,13 @@ We specialize in cryogen-free dilution refrigerator measurement systems with a s
 
 * [Bluefors Homepage](https://bluefors.com/)
 
+## Delft Circuits
+
+Flexible Cryogenic I/O. Low thermal conductance and scalable cryogenic multi-channel i/o 
+solution using (super)conducting circuits on flexible substrates.
+
+* [Delft Circuits Homepage](https://delft-circuits.com/)
+
 ## HRL Laboratories
 
 HRL Laboratories is a world leader in developing solid-state technology for quantum computing and
