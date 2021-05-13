@@ -74,6 +74,13 @@ electronics as well as ultra-low temperature cryogenics systems which host QPUs.
 
 * [Origin Quantum Homepage](http://www.originqc.com.cn/en/website/companyProfile.html)
 
+## Oxford Ionics
+
+Oxford Ionics are creating high performance quantum computers by combining the world’s highest
+quality qubits – trapped ions – with our unique noiseless electronic qubit control technology.
+
+* [Oxford Ionics Homepage](https://www.oxionics.com/)
+
 ## Oxford Quantum Circuits
 
 * [Oxford Quantum Circuits Homepage](https://oxfordquantumcircuits.com/)
