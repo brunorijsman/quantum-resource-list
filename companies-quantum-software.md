@@ -94,6 +94,12 @@ Begin writing programs now.
 
 * [Elyah Homepage](https://elyah.io/)
 
+## ExaQ.ai
+
+Machine Learning with Quantum Computers. Quantum Algorithms & Software Tools.
+
+* [ExaQ.ai Homepage](https://exaq.ai/)
+
 ## Entropica Labs
 
 We partner with enterprise customers to support understanding and integrate quantum computing. We
