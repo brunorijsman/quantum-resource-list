@@ -32,7 +32,7 @@ Quantum Information Theory.
   * [Simulators](quantum-key-distribution-simulators.md)
   * [Theses](quantum-key-distribution-theses.md)
 
-* **Quantum Computing**
+* **Quantum Computing** (introductory material and material related to quantum networking)
   * [Books](quantum-computing-books.md)
   * [Cloud Platforms](quantum-computing-cloud-platforms.md)
   * [Online Courses](quantum-computing-online-courses.md)
