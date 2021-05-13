@@ -149,6 +149,12 @@ of scarce resources in logistics.
 
 * [Phasecraft Homepage](https://www.phasecraft.io/)
 
+## Qu & Co
+
+Experience the future of chemistry simulations.
+
+* [Qu & Co Homepage](https://quandco.com/)
+
 ## Quantum Benchmark
 
 For users and makers of quantum computers, our software measures, optimizes, and validates the
