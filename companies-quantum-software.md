@@ -117,6 +117,14 @@ applications, making the power of quantum computing accessible to every software
 
 * [Horizon Homepage](http://horizonquantum.com/)
 
+## HQS Quantum Simulations
+
+HQS provides software for materials scientists in the chemical industry, as well as in academia.
+Sophisticated quantum-level models of materials and their molecular properties give researchers the
+deeper insights they need to identify the ideal solution for their needs.
+
+* [HQS Quantum Simulations Homepage](https://quantumsimulations.de/)
+
 ## Multiverse Computing
 
 Proprietary quantum and quantum-inspired algorithms to solve the hardest problems in finance. We
