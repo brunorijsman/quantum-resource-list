@@ -37,6 +37,15 @@
 * Deltaflow language ([Open source](https://riverlane.github.io/deltalanguage_internal/v0.6.0/))
 * Deltaflow on ARTIQ ([Open source](https://riverlane.github.io/deltaflow-on-artiq_internal/v0.3.3/))
 
+## Zurich Instruments
+
+Zurich Instruments is a test and measurement company headquartered in Zurich, Switzerland,
+developing and selling measurement instruments along with premium customer support in key markets
+around the world.
+
+* [Zurich Instruments Homepage](https://www.zhinst.com)
+* [Zurich Instruments Quantum Computing Control Systems](https://www.zhinst.com/europe/en/quantum-computing-systems/qccs)
+
 
 
 
