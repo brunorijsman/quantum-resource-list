@@ -23,7 +23,7 @@ Quantum Information Theory.
   * [Simulators](quantum-networking-simulators.md)
   * [Theses](https://www.zotero.org/groups/2918545/bruno_rijsman_quantum_resources_list/collections/3Q9IYKRT)
 
-* **Quantum Key Distribution**
+* **Quantum Key Distribution (QKD)** and **Post Quantum Cryptography (PQC)**
   * [Books](quantum-key-distribution-books.md)
   * [Online Courses](quantum-key-distribution-online-courses.md)
   * [Open Source Software](quantum-key-distribution-open-source-software.md)
