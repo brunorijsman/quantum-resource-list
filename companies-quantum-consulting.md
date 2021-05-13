@@ -13,3 +13,13 @@ Ketita Labs conducts interdisciplinary applied research and development in quant
 processing. In addition, we disseminate knowledge through consulting activities.
 
 * [Ketita Labs Homepage](https://www.ketita-labs.com/)
+
+## QunaSys
+
+The algorithm of quantum computing is a rapidly progressing field that requires detailed technical
+knowledge. QunaSys has a deep knowledge of this area and is prepared to support our clients in
+developing practical methods and applications that solve their problems. We will identify clients’
+current problems regarding the existing calculation methods through demonstration experiments, and
+work on developing new methods that solve those issues.
+
+* [QunaSys Homepage](https://en.qunasys.com/)
