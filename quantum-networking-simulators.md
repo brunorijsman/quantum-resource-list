@@ -24,6 +24,12 @@ Quantum Internet Simulation Package
 * [QuISP Homepage](QuISP - Quantum Internet Simulation Package)
 * [QuISP GitHub Repository](https://github.com/sfc-aqua/quisp)
 
+## QuNetSim
+
+QuNetSim: A Software Framework for Quantum Networks
+* [QuNetSim Documentation](https://tqsd.github.io/QuNetSim/)
+* [QuNetSim GitHub Repository](https://github.com/tqsd/QuNetSim)
+
 ## SQUANCH
 
 Simulator for Quantum Networks and Channels
