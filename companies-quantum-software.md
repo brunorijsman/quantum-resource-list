@@ -125,6 +125,13 @@ deeper insights they need to identify the ideal solution for their needs.
 
 * [HQS Quantum Simulations Homepage](https://quantumsimulations.de/)
 
+## Jij
+
+Our mission is to solve computationally intractable problems, and we are developing an optimization
+computation platform using the quantum Ising computer.
+
+* [Jij Homepage](https://www.j-ij.com/)
+
 ## Multiverse Computing
 
 Proprietary quantum and quantum-inspired algorithms to solve the hardest problems in finance. We
