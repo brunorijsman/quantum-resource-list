@@ -15,3 +15,11 @@ atom-optics components, and microwave-dot hybrid systems.
 
 * [HRL Quantum Science & Engineering](https://quantum.hrl.com/)
 
+## M Squared
+
+We are a leading developer of photonics and quantum technology. Our light-based applications are
+used in a number of fields, including quantum technology, biophotonics and chemical sensing. Our
+products are put to use in a wide-range of sectors including advanced manufacturing, oil and gas
+research, space technology and the medical sector
+
+* [M Squared Homepage](https://www.m2lasers.com/about.html)
