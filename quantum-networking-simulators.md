@@ -1,5 +1,11 @@
 # Quantum Networking: Simulators
 
+## NetQuil
+
+NetQuil: A quantum playground for distributed quantum computing simulations.
+* [NetQuil Documentation](https://att-innovate.github.io/netQuil/index.html)
+* [NetQuil GitHub Repository](https://github.com/att-innovate/netQuil)
+
 ## NetSquid
 
 Network simulator for quantum information using discrete events
