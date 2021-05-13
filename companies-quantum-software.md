@@ -182,6 +182,13 @@ free binding energy of molecules with the highest accuracy.
 
 * [QxBranch acquired by Rigetti](https://www.prnewswire.com/news-releases/rigetti-computing-acquires-qxbranch-to-expand-full-stack-capabilities-300882977.html)
 
+## Solid State AI
+
+Solid State AI) develops & deploys machine learning software that advanced manufacturers use to
+increase yields & throughput.
+
+* [Solid State AI Homepage](https://www.solidstate.ai/about-us)
+
 ## Strangeworks
 
 Strangeworks QC is used by thousands of researchers, developers, and companies around the world to learn, teach, create, and collaborate on quantum computing projects.

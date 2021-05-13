@@ -23,3 +23,10 @@ current problems regarding the existing calculation methods through demonstratio
 work on developing new methods that solve those issues.
 
 * [QunaSys Homepage](https://en.qunasys.com/)
+
+## Semicyber
+
+The Semicyber technical experts design and implement solutions in the areas of Quantum Algorithm
+Development, Engineering and Development, Data Science and Analytics.
+
+* [Semicyber Homepage](https://semicyber.com/)
