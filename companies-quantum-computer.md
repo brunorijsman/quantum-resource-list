@@ -103,6 +103,15 @@ Room Temperature Nitrogen-Vacancy Diamond Quantum Accelerators. Generation 1 is 
 
 * [Quantum Circuits Inc (QCI) Homepage](https://quantumcircuits.com/)
 
+## Quantum Motion
+
+At Quantum Motion we are marrying fifty years of global CMOS development with world-leading
+expertise in qubit design and architectures. Our team is transitioning this work away from
+theoretical research in universities to realise these designs in a real-world, manufacturable
+process.
+
+* [Quantum Motion Homepage](https://quantummotion.tech/about/)
+
 ## QuEra
 
 * [QuEra Homepage](https://www.quera-computing.com/)
