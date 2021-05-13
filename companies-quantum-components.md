@@ -43,3 +43,10 @@ products are put to use in a wide-range of sectors including advanced manufactur
 research, space technology and the medical sector
 
 * [M Squared Homepage](https://www.m2lasers.com/about.html)
+
+## Nu Quantum
+
+Ground-breaking single-photon components to enable the next generation of commercially-viable
+photonic quantum technologies.
+
+* [Nu Quantum Homepage](https://nu-quantum.com/)
