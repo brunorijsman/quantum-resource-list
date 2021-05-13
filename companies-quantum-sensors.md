@@ -1,4 +1,4 @@
-# Quantum Computing Companies: Quantum Sensors
+# Quantum Sensors Companies
 
 ## SBQuantum
 

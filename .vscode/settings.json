@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "ARTIQ",
         "Aeqi",
         "Agnostiq",
         "Algorithmiq",
@@ -18,6 +19,7 @@
         "Cogni",
         "Coursera",
         "Cryto",
+        "Deltaflow",
         "Duong",
         "Elyah",
         "Entropica",
@@ -37,6 +39,7 @@
         "Pasqal",
         "Pennylane",
         "QASM",
+        "QBLOX",
         "QPUs",
         "Qbit",
         "Qnami",
@@ -49,6 +52,7 @@
         "Rijsman's",
         "Riverlane",
         "Sendrier",
+        "Sinara",
         "Strangeworks",
         "Takagi",
         "Taqbit",
@@ -59,10 +63,13 @@
         "Zwiebach",
         "a",
         "electronical",
+        "heterostructure",
         "ldpc",
         "liboqs",
         "multiplicator",
+        "nanowire",
         "qubit",
+        "repurposing",
         "rigetti"
     ],
     "restructuredtext.confPath": ""

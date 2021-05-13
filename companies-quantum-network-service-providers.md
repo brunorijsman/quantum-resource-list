@@ -1,4 +1,4 @@
-# Quantum Key Distribution: Commercial Service Providers
+# Quantum Network Service Provider Companies
 
 ## KPN
 

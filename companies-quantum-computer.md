@@ -1,4 +1,4 @@
-# Quantum Computing Companies: Quantum Computers
+# Quantum Computer Companies
 
 ## Alibaba
 

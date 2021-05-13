@@ -1,4 +1,4 @@
-# Quantum Networking Companies
+# Quantum Network Product Companies
 
 See separate lists for
 [Quantum Key Distribution (QKD) companies](quantum-key-distribution-qkd-product-companies.md)

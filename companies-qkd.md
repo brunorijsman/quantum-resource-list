@@ -1,4 +1,4 @@
-# Quantum Key Distribution: QKD Product Companies
+# Quantum Key Distribution (QKD) Companies
 
 ## Anametric
 
