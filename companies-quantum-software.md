@@ -207,3 +207,11 @@ Strangeworks QC is used by thousands of researchers, developers, and companies a
 
 * [Strangeworks Homepage](https://strangeworks.com/)
 
+## Terra Quantum
+
+Terra Quantum AG is a world-leading quantum technology company led by senior finance executive and
+quantum physicist Markus Pflitsch. It develops revolutionary deep tech applications based on quantum
+computing, hardware, software and algorithms.
+
+* [Terra Quantum Homepage](https://terraquantum.swiss/)
+
