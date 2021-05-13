@@ -132,6 +132,13 @@ computation platform using the quantum Ising computer.
 
 * [Jij Homepage](https://www.j-ij.com/)
 
+## Jos Quantum
+
+Research as a Service. Learn about quantum computing. Identify use cases in your company.
+Evaluate use cases for quantum upgrades. Prototypes & proof-of-concepts.
+
+* [Jos Quantum Homepage](https://jos-quantum.de/)
+
 ## Multiverse Computing
 
 Proprietary quantum and quantum-inspired algorithms to solve the hardest problems in finance. We
