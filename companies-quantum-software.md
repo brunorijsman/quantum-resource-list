@@ -48,6 +48,17 @@ mainly focusing on quantum neural networks virtual drug development.
 
 * [Apply Science Homepage](https://www.applyscience.it/quantum-division/)
 
+## BEIT
+
+The main goal of Beit is to design and implement an algorithm for solving an all relevant
+NP-complete class of problems using Quantum Computers effectively, i.e. getting speedups better
+than quadratic, guaranteed by theory. We focus on Hamiltonian cycle problem, but since there are
+known reductions between different problems inside NP-complete class, we may say, that we are 
+working on all of them at the same time. NP-complete problems are abstractions relevant for many 
+real world problems encountered in logistics, manufacturing and warehousing at scale.
+
+* [BEIT Homepage](https://beit.tech/)
+
 ## Cambridge Quantum Computing (CQC)
 
 CQC is a world leading independent quantum computing company that develops architecture-agnostic,
