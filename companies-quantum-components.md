@@ -92,6 +92,10 @@ efficiency of more than 98%.
 
 * [Sparrow Quantum Homepage](https://sparrowquantum.com/)
 
-## VLC Photonics
+## Swabian Instruments
 
+Swabian Instruments provides versatile solutions for the handling of digital signals. We combine
+high performance hardware with flexible software toolkits and connect them with streaming data
+paths. Our instruments enable you to process and control your digital signals on-the-fly.
 
+* [Swabian Instruments Homepage](https://www.swabianinstruments.com/)
