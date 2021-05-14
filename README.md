@@ -5,6 +5,9 @@ introductory books, papers, courses, and other online resources related to Quant
 Quantum Communications, Quantum Key Distribution, and (to a lesser extent) Quantum Computing and
 Quantum Information Theory.
 
+If you would like to add something to the list or if you would like to fix a mistake, send an
+e-mail to brunorijsman@remoteautonomy.com or send a GitHub pull request.
+
 * **Quantum Companies**
   * [Quantum Computer Companies](companies-quantum-computer.md)
   * [Quantum Software Companies](companies-quantum-software.md)
