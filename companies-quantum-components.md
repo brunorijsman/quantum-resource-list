@@ -22,6 +22,20 @@ atom-optics components, and microwave-dot hybrid systems.
 
 * [HRL Quantum Science & Engineering](https://quantum.hrl.com/)
 
+## ID Quantique (IDQ)
+
+ID Quantique (IDQ) is the world leader in quantum-safe crypto solutions, designed to protect data
+for the long-term future. The company provides quantum-safe network encryption, secure quantum key
+generation and quantum key distribution solutions and services to the financial industry,
+enterprises and government organizations globally.
+
+* [ID Quantique Homepage](https://www.idquantique.com/)
+* [IDQ Infrared Photon Counters](https://www.idquantique.com/quantum-sensing/products/#infrared_photon_counters)
+* [IDQ Visible Photon Counters](https://www.idquantique.com/quantum-sensing/products/#visible_photon_counters)
+* [IDQ Timing Devices](https://www.idquantique.com/quantum-sensing/products/#timing_devices)
+* [IDQ Short-Pulse Laser Source](https://www.idquantique.com/quantum-sensing/products/id300-laser-source/)
+* [IDQ Random Number Generators](https://www.idquantique.com/random-number-generation/products/)
+
 ## Kiutra
 
 At kiutra, our mission is to provide our research and industry customers with easy-to-use, turn-key
