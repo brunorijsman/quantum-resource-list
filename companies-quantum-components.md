@@ -79,6 +79,12 @@ this quantum sensing.
 
 * [Qnami Homepage](https://qnami.ch/)
 
+## Single Quantum
+
+Single Quantum develops the best single photon detectors based on superconducting nanowires.
+
+* [Single Quantum Homepage](https://singlequantum.com/)
+
 ## Sparrow Quantum
 
 Sparrow single-photon source delivers a steady stream of single photons with a whopping coupling
