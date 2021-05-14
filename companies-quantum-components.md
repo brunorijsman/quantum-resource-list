@@ -50,3 +50,10 @@ Ground-breaking single-photon components to enable the next generation of commer
 photonic quantum technologies.
 
 * [Nu Quantum Homepage](https://nu-quantum.com/)
+
+## Sparrow Quantum
+
+Sparrow single-photon source delivers a steady stream of single photons with a whopping coupling
+efficiency of more than 98%.
+
+* [Sparrow Quantum Homepage](https://sparrowquantum.com/)
