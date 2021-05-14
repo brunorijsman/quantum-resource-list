@@ -71,6 +71,12 @@ photonic quantum technologies.
 
 * [Nu Quantum Homepage](https://nu-quantum.com/)
 
+## Quantopticon
+
+Helping you to model realistic quantum photonic devices
+
+* [Quantopticon Homepage](https://quantopticon.co.uk/)
+
 ## Qnami
 
 At Qnami we develop fundamental new technology using quantum mechanics. The control and measurement

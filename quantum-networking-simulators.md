@@ -18,6 +18,12 @@ Quantum Internet Simulation Package
 * [QuISP Homepage](QuISP - Quantum Internet Simulation Package)
 * [QuISP GitHub Repository](https://github.com/sfc-aqua/quisp)
 
+## Quantopticon
+
+Helping you to model realistic quantum photonic devices
+
+* [Quantopticon Homepage](https://quantopticon.co.uk/)
+
 ## QuNet
 
 An open source scalable quantum network simulator based on cost vector analysis implemented in Julia.
