@@ -19,6 +19,13 @@ solution using (super)conducting circuits on flexible substrates.
 
 * [Delft Circuits Homepage](https://delft-circuits.com/)
 
+## EYL Partners
+
+Developed by EYL, quantum random number generator is a unique and innovative technology that
+provides the ultimate randomness that can improve information security.
+
+* [EYL Partners Homepage](https://www.eylpartners.com/)
+
 ## HRL Laboratories
 
 HRL Laboratories is a world leader in developing solid-state technology for quantum computing and
