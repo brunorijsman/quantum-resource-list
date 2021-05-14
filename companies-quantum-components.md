@@ -1,5 +1,11 @@
 # Quantum Components Companies
 
+## Aurea
+
+Aurea Technology offers the "best in class" single photon counting modules.
+
+* [Aurea Homepage](https://www.aureatechnology.com/)
+
 ## Bluefors
 
 We specialize in cryogen-free dilution refrigerator measurement systems with a strong focus on the quantum computing and information community. Our aim is to deliver the most reliable and easy to operate systems on the market which are of the highest possible quality.
