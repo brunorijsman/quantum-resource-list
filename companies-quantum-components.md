@@ -71,12 +71,6 @@ photonic quantum technologies.
 
 * [Nu Quantum Homepage](https://nu-quantum.com/)
 
-## Quantopticon
-
-Helping you to model realistic quantum photonic devices
-
-* [Quantopticon Homepage](https://quantopticon.co.uk/)
-
 ## Qnami
 
 At Qnami we develop fundamental new technology using quantum mechanics. The control and measurement
@@ -84,6 +78,18 @@ of the state of a single electron enables us to measure what could never be meas
 this quantum sensing.
 
 * [Qnami Homepage](https://qnami.ch/)
+
+## Quantopticon
+
+Helping you to model realistic quantum photonic devices
+
+* [Quantopticon Homepage](https://quantopticon.co.uk/)
+
+## Quside
+
+Your high-performance quantum entropy source.
+
+* [QuSide Homepage](https://www.quside.com/)
 
 ## Single Quantum
 
