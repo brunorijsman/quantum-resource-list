@@ -55,6 +55,8 @@
         "Qnami",
         "Qpho",
         "Qron",
+        "Qrypt",
+        "Qrypt’s",
         "Quandela",
         "Quantique",
         "Quantopticon",
@@ -91,6 +93,7 @@
         "qubit",
         "repurposing",
         "rigetti",
+        "s",
         "toolkits"
     ],
     "restructuredtext.confPath": ""

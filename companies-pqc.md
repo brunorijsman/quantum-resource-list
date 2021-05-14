@@ -25,3 +25,10 @@ World’s first post-quantum cryptography on a contactless security chip.
 SIM card enabling long-term secure Quantum-Safe Cryptography-enabled payments and 5G.
 
 * [QRCrypto Homepage](https://www.qrcrypto.ch/)
+
+## Qrypt
+
+Qrypt’s post quantum secure encryption protects data indefinitely, delivering everlasting security
+and ultimate peace of mind.
+
+* [Qrypt Homepage](https://www.qrypt.com/)
