@@ -1,5 +1,10 @@
 # Quantum Controller Companies
 
+## Labber Quantum
+
+* [Labber Software](https://www.keysight.com/it/en/products/software/application-sw/labber-software.html)
+* [Keysight Quantum Solutions](https://www.keysight.com/it/en/solutions/emerging-technologies/quantum-solutions.html)
+
 ## M-Labs
 
 * [M-Labs Homepage](https://m-labs.hk/)
