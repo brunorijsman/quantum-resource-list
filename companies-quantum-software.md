@@ -177,6 +177,13 @@ breakthroughs to keep your data safe, and your capabilities miles ahead of the c
 
 * [Quantum Thought Homepage](https://www.quthought.com/)
 
+## QSimulate
+
+On the basis of our unique technologies, we are looking to bring the power of quantitative
+simulations to solve pressing problems in the pharmaceutical and chemistry spaces.
+
+* [QSimulate Homepage](https://qsimulate.com/)
+
 ## Qubit Pharmaceuticals
 
 We accelerate drug discovery with quantum physics. Our platform allows the calculation of absolute
