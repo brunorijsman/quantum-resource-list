@@ -27,6 +27,12 @@ Quantum Photonics for Cybersecurity.
 * [MagiQ Homepage](https://www.magiqtech.com/)
 * [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
 
+## Qabacus
+
+Quantum communication and encryption.
+
+* [Qabacus Homepage](https://memcus.com/)
+
 ## QNu Labs
 
 * [QNu Labs Homepage](https://www.qnulabs.com/)
