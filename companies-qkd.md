@@ -10,6 +10,7 @@ Quantum Photonics for Cybersecurity.
 
 * [ID Quantique Homepage](https://www.idquantique.com/)
 * [Cerberis3 QKD System](https://www.idquantique.com/quantum-safe-security/products/cerberis3-qkd-system/)
+* [Cerberis QG Series](https://www.idquantique.com/quantum-safe-security/products/cerberis-xg-qkd-system/)
 * [Clavis3 QKD Platform](https://www.idquantique.com/quantum-safe-security/products/clavis3-qkd-platform-rd/)
 * [Clavis300 Quantum Cryptography Platform](https://www.idquantique.com/quantum-safe-security/products/clavis300-quantum-cryptography-platform/)
 
