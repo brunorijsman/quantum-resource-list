@@ -92,6 +92,14 @@ Helping you to model realistic quantum photonic devices
 
 * [Quantopticon Homepage](https://quantopticon.co.uk/)
 
+## Quantum Opus
+
+Quantum Opus offers a compact (3U-rack sized) superconducting nanowire system which offers high
+detection efficiency, low-noise performance which is easy to use, even for researchers with no
+cryogenics experience.
+
+* [Quantum Opus Homepage](https://www.quantumopus.com/)
+
 ## Quside
 
 Your high-performance quantum entropy source.
