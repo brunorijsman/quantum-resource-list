@@ -21,6 +21,10 @@ electronics as well as ultra-low temperature cryogenics systems which host QPUs.
 
 ## Atom Computing
 
+Atom Computing is building truly scalable quantum computers out of individual atoms. Our quantum
+computers use quantum mechanical properties of atoms to process information and solve problems
+beyond the reach of traditional computers, including drug design, computational chemistry, and more.
+
 * [Atom Computing Homepage](https://www.atom-computing.com/)
 
 ## ColdQuanta
