@@ -126,3 +126,11 @@ high performance hardware with flexible software toolkits and connect them with 
 paths. Our instruments enable you to process and control your digital signals on-the-fly.
 
 * [Swabian Instruments Homepage](https://www.swabianinstruments.com/)
+
+## Toptica Photonics
+
+Toptica Photonics has been developing and manufacturing high-end laser systems for more than 20
+years.
+
+* [Toptica Photonics](https://www.toptica.com/)
+
