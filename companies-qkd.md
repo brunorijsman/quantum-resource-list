@@ -23,6 +23,12 @@ Quantum Photonics for Cybersecurity.
 * [Kets Homepage](https://kets-quantum.com/)
 * [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
 
+## LuxQuanta
+
+Bringing Quantum Safe Cryptography to the Digital Data World.
+
+* [LuxQuanta Homepage](https://luxquanta.com/)
+
 ## MagiQ
 
 * [MagiQ Homepage](https://www.magiqtech.com/)
