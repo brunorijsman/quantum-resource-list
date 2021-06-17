@@ -41,6 +41,12 @@ Quantum Computers.
 
 * [IronCap Homepage](https://www.ironcap.ca/)
 
+## QuantiCor
+
+Quantum Computer-Resistant Security Solutions.
+
+* [QuantiCor Homepage](https://quanticor-security.de/en/home/)
+
 ## Quantropi
 
 Fast, efficient digital QKD over the existing Internet. True quantum safety you can count on today,
