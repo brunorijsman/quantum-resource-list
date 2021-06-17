@@ -115,6 +115,12 @@ data in uncontrolled environments.
 * [Quintessence Labs Homepage](https://www.quintessencelabs.com/)
 * [qOptica 100 Quantum Key Distribution](https://www.quintessencelabs.com/products/quantum-key-distribution-qkd/)
 
+## SpeQtral
+
+SpeQtral designs and manufactures satellite-based quantum communication systems.
+
+* [SpeQtral Homepage](https://speqtral.space/)
+
 ## Taqbit
 
 Incorporated in 2018 we are India’s pioneer Quantum Tech. company with existing revenue stream.
