@@ -6,6 +6,11 @@
 
 ## Alice & Bob
 
+We are working with superconducting circuits which is one of the most promising platforms for
+building a quantum computer. Our unique technology of self-correcting superconducting quantum bit,
+the cat qubit, allows for a much simpler road to fault-tolerant and universal gate-based quantum
+computing.
+
 * [Alice & Bob Homepage](https://alice-bob.com/)
 
 ## Alpine Quantum Technologies (AQT)
