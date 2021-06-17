@@ -57,6 +57,14 @@ global standard.
 
 * [Post-Quantum Homepage](https://www.post-quantum.com/)
 
+## PQShield
+
+We help customers transition their product lines from legacy RSA and Elliptic Curve cryptography to
+quantum-secure standards by offering ready-made and tailored IP for secure elements, IoT firmware,
+PKI, mobile and server technologies, as well as end-user applications.
+
+* [PQShield Homepage](https://pqshield.com/)
+
 ## QuantiCor
 
 Quantum Computer-Resistant Security Solutions.
