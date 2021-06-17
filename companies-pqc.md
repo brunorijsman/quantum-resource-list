@@ -26,6 +26,13 @@ World’s first post-quantum cryptography on a contactless security chip.
 
 * [Infineon PQC](https://www.infineon.com/cms/en/product/promopages/post-quantum-cryptography/)
 
+## Quantropi
+
+Fast, efficient digital QKD over the existing Internet. True quantum safety you can count on today,
+and Perfect Secrecy you can trust forever, no matter what the future network, or threat.
+
+* [Quantropi Homepage](https://www.quantropi.com/)
+
 ## Quantum Resistant Crypto (QRCrypto)
 
 SIM card enabling long-term secure Quantum-Safe Cryptography-enabled payments and 5G.
