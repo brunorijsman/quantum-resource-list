@@ -15,6 +15,8 @@ computing.
 
 ## Alpine Quantum Technologies (AQT)
 
+AQT realizes the first general-purpose Quantum Computer using trapped ion quantum devices.
+
 * [Alpine Quantum Technologies (AQT) Homepage](https://www.aqt.eu/)
 
 ## Anyon
