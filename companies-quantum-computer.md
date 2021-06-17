@@ -27,6 +27,12 @@ beyond the reach of traditional computers, including drug design, computational 
 
 * [Atom Computing Homepage](https://www.atom-computing.com/)
 
+## Bleximo
+
+Building practical superconducting quantum computers.
+
+* [Bleximo Homepage](https://bleximo.com/)
+
 ## ColdQuanta
 
 * [ColdQuanta Homepage](https://coldquanta.com/)
