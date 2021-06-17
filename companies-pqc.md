@@ -48,24 +48,30 @@ and Perfect Secrecy you can trust forever, no matter what the future network, or
 
 * [Quantropi Homepage](https://www.quantropi.com/)
 
+## Quantum Blockchains
+
+Provably secure solutions for the next generation of distributed ledgers.
+
+* [Quantum Blockchains Homepage](https://www.quantumblockchains.io/)
+
 ## Quantum Resistant Crypto (QRCrypto)
 
 SIM card enabling long-term secure Quantum-Safe Cryptography-enabled payments and 5G.
 
 * [QRCrypto Homepage](https://www.qrcrypto.ch/)
 
-## QuSecure
-
-Scalable cryptography for the post-quantum enterprise.
-
-* [QuSecure Homepage](https://www.qusecure.com/)
-
-## The Quantum Resistant Ledger (QRL)
+## Quantum Resistant Ledger (QRL)
 
 A powerful blockchain platform secured by XMSS: a NIST-approved post-quantum secure digital
 signature scheme
 
 * [The Quantum Resistant Ledger (QRL) Homepage](https://www.theqrl.org/)
+
+## QuSecure
+
+Scalable cryptography for the post-quantum enterprise.
+
+* [QuSecure Homepage](https://www.qusecure.com/)
 
 ## Qrypt
 
