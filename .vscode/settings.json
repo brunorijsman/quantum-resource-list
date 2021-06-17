@@ -62,6 +62,7 @@
         "Phasecraft",
         "QASM",
         "QBLOX",
+        "QDID",
         "QPUs",
         "QRNGs",
         "Qabacus",
@@ -114,7 +115,8 @@
         "repurposing",
         "rigetti",
         "s",
-        "toolkits"
+        "toolkits",
+        "unforgeable"
     ],
     "restructuredtext.confPath": ""
 }

@@ -6,6 +6,16 @@ Quantum Photonics for Cybersecurity.
 
 * [Anametric Homepage](https://anametric.com/)
 
+## CryptoQuantique
+
+By harnessing quantum tunnelling and cryptographic techniques, we’ve developed Q:Architecture, our
+patented security architecture made up of two components: QDID, a quantum-driven hardware
+root-of-trust that generates unique, unforgeable identities and cryptographic keys on demand.
+QuarkLink: a universal IoT security platform that lets device owners manage their IoT ecosystem
+security with ease.
+
+* [CryptoQuantique Homepage](https://www.cryptoquantique.com/)
+
 ## ID Quantique (IDQ)
 
 ID Quantique (IDQ) provides quantum-safe network encryption, secure quantum key generation and 
