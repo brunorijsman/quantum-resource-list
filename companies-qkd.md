@@ -20,6 +20,9 @@ government organizations globally.
 
 ## KeeQuant
 
+KEEQuant is developing secure communication and network infrastructure for the quantum era.
+EU27 funded and deeply rooted in quantum technologies we provide trustworthy QKD systems and solutions for even the most critical customer applications.
+
 * [KeeQuant Homepage](https://keequant.com/)
 
 ## Kets
