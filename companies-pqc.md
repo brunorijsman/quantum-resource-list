@@ -26,6 +26,12 @@ SIM card enabling long-term secure Quantum-Safe Cryptography-enabled payments an
 
 * [QRCrypto Homepage](https://www.qrcrypto.ch/)
 
+## QuSecure
+
+Scalable cryptography for the post-quantum enterprise.
+
+* [QuSecure Homepage](https://www.qusecure.com/)
+
 ## Qrypt
 
 Qrypt’s post quantum secure encryption protects data indefinitely, delivering everlasting security
