@@ -122,6 +122,8 @@ process.
 
 ## QuEra
 
+Scalable quantum computing with cold atoms.
+
 * [QuEra Homepage](https://www.quera-computing.com/)
 
 ## QRDLab
