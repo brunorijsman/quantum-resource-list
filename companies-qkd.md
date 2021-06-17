@@ -107,6 +107,9 @@ data in uncontrolled environments.
 
 ## Taqbit
 
+Incorporated in 2018 we are India’s pioneer Quantum Tech. company with existing revenue stream.
+We aspire to be a key player in upcoming Quantum road maps of India & Globally.
+
 * [Taqbit Homepage](http://taqbit.com)
 * [Taqbit QKD](http://taqbit.com/qkd.html)
 
