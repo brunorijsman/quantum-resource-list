@@ -48,6 +48,9 @@ ColdQuanta builds world-leading Quantum Computers and Quantum Sensing Technologi
 
 ## D-Wave Systems
 
+The first and only quantum computer built for business.
+D-Wave systems use a process called quantum annealing to search for solutions to a problem.
+
 * [D-Wave Systems Homepage](https://www.dwavesys.com/)
 
 ## Duality Quantum Photonics
