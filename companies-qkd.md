@@ -62,6 +62,13 @@ Quantum communication and encryption.
 
 * [Qabacus Homepage](https://memcus.com/)
 
+## Qasky
+
+Quantum key distribution terminal.
+
+* [Qasky Homepage](http://www.qasky.com/en/)
+
+
 ## QEYNet
 
 QEYnet’s solution to the quantum computing threat is to make QKD globally available by satellite.
