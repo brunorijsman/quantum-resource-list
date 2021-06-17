@@ -52,6 +52,9 @@ Quantum communication and encryption.
 
 ## QNu Labs
 
+Armos Quantum Key Distribution protects your critical infrastructure unconditionally, providing
+quantum resilience and ensuring that your data is safe at all times.​
+
 * [QNu Labs Homepage](https://www.qnulabs.com/)
 * [Armos QKD](https://www.qnulabs.com/armos-quantum-key-distribution/)
 
