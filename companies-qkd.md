@@ -115,5 +115,9 @@ We aspire to be a key player in upcoming Quantum road maps of India & Globally.
 
 ## Toshiba
 
+At Toshiba, we are committed to delivering world’s leading cyber-physical-system technology to
+protect the private information of citizens and companies. Our Quantum Key Distribution (QKD)
+offering applies the fundamental laws of Quantum Physics to secure network communications. 
+
 * [Toshiba QKD Homepage](https://www.toshiba.co.jp/qkd/en/index.htm)
 * [Multiplexed QKD System and Long Distance QKD System](https://www.toshiba.co.jp/qkd/en/products.htm)
