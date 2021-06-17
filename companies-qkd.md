@@ -41,6 +41,8 @@ Bringing Quantum Safe Cryptography to the Digital Data World.
 
 ## MagiQ
 
+Solutions for Advanced Communications, Energy Exploration, and Network Security.
+
 * [MagiQ Homepage](https://www.magiqtech.com/)
 * [MagiQ QPN](https://www.magiqtech.com/solutions/network-security/)
 
