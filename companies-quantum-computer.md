@@ -164,12 +164,13 @@ Scalable quantum computing with cold atoms.
 
 ## Rigetti
 
+We're on a mission to build the world’s most powerful computers to help solve humanity’s most
+important and pressing problems.
+
 * [Rigetti Homepage](https://www.rigetti.com/)
 
 ## Xanadu
 
+Silicon quantum photonic chips powering a room-temperature and scalable quantum computer.
+
 * [Xanadu Homepage](https://www.xanadu.ai/)
-
-## Zapata
-
-* [Zapata Homepage](https://www.zapatacomputing.com/)

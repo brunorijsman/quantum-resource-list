@@ -231,3 +231,8 @@ computing, hardware, software and algorithms.
 
 * [Terra Quantum Homepage](https://terraquantum.swiss/)
 
+## Zapata
+
+We build software to get the enterprise quantum-ready.
+
+* [Zapata Homepage](https://www.zapatacomputing.com/)
