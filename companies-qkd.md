@@ -27,6 +27,9 @@ EU27 funded and deeply rooted in quantum technologies we provide trustworthy QKD
 
 ## Kets
 
+Future-proof communications security for devices and networks, powered by quantum security on a
+chip.
+
 * [Kets Homepage](https://kets-quantum.com/)
 * [Kets Quantum Key Distribution](https://kets-quantum.com/quantum-key-distribution/)
 
