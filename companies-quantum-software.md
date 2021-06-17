@@ -149,6 +149,15 @@ of scarce resources in logistics.
 
 * [Phasecraft Homepage](https://www.phasecraft.io/)
 
+## QCWare
+
+Enterprise Software and Services for Quantum Computing.
+With one of the largest teams of quantum algorithm experts we strive to make quantum computing
+easily accessible by classically-trained data scientists and to offer performance speed-ups on near
+term hardware.
+
+* [QCWare Homepage](https://qcware.com/)
+
 ## Qu & Co
 
 Experience the future of chemistry simulations.

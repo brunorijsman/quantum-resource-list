@@ -14,6 +14,15 @@ processing. In addition, we disseminate knowledge through consulting activities.
 
 * [Ketita Labs Homepage](https://www.ketita-labs.com/)
 
+## QCWare
+
+Enterprise Software and Services for Quantum Computing.
+With one of the largest teams of quantum algorithm experts we strive to make quantum computing
+easily accessible by classically-trained data scientists and to offer performance speed-ups on near
+term hardware.
+
+* [QCWare Homepage](https://qcware.com/)
+
 ## QunaSys
 
 The algorithm of quantum computing is a rapidly progressing field that requires detailed technical
