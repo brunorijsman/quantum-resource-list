@@ -60,6 +60,10 @@ quantum resilience and ensuring that your data is safe at all times.​
 
 ## QuantumCTek
 
+QuantumCTek Co., Ltd. is a Chinese pioneer and leader in commercialized quantum information
+technology (QIT), now becoming one of the world's biggest manufacturer and provider of QIT-enabled
+ICT security product and service.
+
 * [QuantumCTek Homepage](http://www.quantum-info.com/English/)
 * [Polarization Coding Quantum Key DistributionTerminal](http://www.quantum-info.com/English/product/2017/0901/324.html)
 * [Polarization Coding Quantum Key Distribution and Management Terminal](http://www.quantum-info.com/English/product/2017/0901/325.html)
