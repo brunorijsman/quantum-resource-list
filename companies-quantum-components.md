@@ -100,6 +100,12 @@ cryogenics experience.
 
 * [Quantum Opus Homepage](https://www.quantumopus.com/)
 
+## Qunnect
+
+We build hardware to transform telecommunications infrastructure into scalable quantum networks.
+
+* [Qunnect Homepage](https://int.quconn.com/)
+
 ## Quside
 
 Your high-performance quantum entropy source.
