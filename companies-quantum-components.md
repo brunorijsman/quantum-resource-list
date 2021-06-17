@@ -19,6 +19,13 @@ We specialize in cryogen-free dilution refrigerator measurement systems with a s
 
 * [Bluefors Homepage](https://bluefors.com/)
 
+## CryptaLabs
+
+Crypta Labs has developed Quantum Random Number Generators (QRNGs) to produce truly random numbers
+for use in encryption. 
+
+* [CryptaLabs Homepage](https://www.cryptalabs.com/)
+
 ## Crypto4A
 
 We are a Canadian cybersecurity company looking to make cybersecurity simple, scalable, and
