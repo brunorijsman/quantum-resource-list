@@ -57,6 +57,13 @@ D-Wave systems use a process called quantum annealing to search for solutions to
 
 * [Duality Quantum Photonics Homepage](https://www.dualityqp.com/)
 
+## Equal1
+
+Compact and affordable quantum computing.
+Scalable silicon quantum computers in a standard CMOS process enabling quantum computers for all.
+
+* [Equal1 Homepage](https://www.equal1.com/)
+
 ## Google
 
 * [Google Quantum AI Homepage](https://quantumai.google/)
