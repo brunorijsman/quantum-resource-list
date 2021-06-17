@@ -42,6 +42,8 @@ Building practical superconducting quantum computers.
 
 ## ColdQuanta
 
+ColdQuanta builds world-leading Quantum Computers and Quantum Sensing Technologies.
+
 * [ColdQuanta Homepage](https://coldquanta.com/)
 
 ## D-Wave Systems
