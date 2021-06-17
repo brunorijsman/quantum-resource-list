@@ -122,6 +122,13 @@ quality qubits – trapped ions – with our unique noiseless electronic qubit c
 
 * [Pasqal Homepage](https://pasqal.io/)
 
+## PsiQuantum
+
+We are building the world’s first useful fault tolerant quantum computer that will solve otherwise
+impossible problems.
+
+* [PsiQuantum Homepage](https://psiquantum.com/)
+
 ## Quandela
 
 * [Quandela Homepage](https://quandela.com/)
