@@ -88,6 +88,9 @@ ICT security product and service.
 
 ## Qubitekk
 
+Qubitekk is a pioneer in the development of optical components and systems for Quantum Information
+Science.
+
 * [Qubitekk Homepage](http://qubitekk.com/)
 * [QKD Demonstrator for Research](http://qubitekk.com/products/qkd-demonstrator-for-research/)
 * [QKD for Industrial Control Systems (ICS)](http://qubitekk.com/products/qkd-for-industrial-control-systems-ics/)
