@@ -113,6 +113,13 @@ Delivering Next Generation 100% Unbreakable Quantum Security.
 
 * [Quantum Base Homepage](https://quantumbase.com/)
 
+## Quantum Dice
+
+Quantum Dice is a new spinout from Oxford University’s Department of Physics which is developing the
+world’s first compact completely embedded self-certified quantum random number generator.
+
+* [Quantum Dice Homepage](https://quantum-dice.com/)
+
 ## Quantum Opus
 
 Quantum Opus offers a compact (3U-rack sized) superconducting nanowire system which offers high
