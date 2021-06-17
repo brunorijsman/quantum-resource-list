@@ -107,6 +107,12 @@ Helping you to model realistic quantum photonic devices
 
 * [Quantopticon Homepage](https://quantopticon.co.uk/)
 
+## Quantum Base
+
+Delivering Next Generation 100% Unbreakable Quantum Security.
+
+* [Quantum Base Homepage](https://quantumbase.com/)
+
 ## Quantum Opus
 
 Quantum Opus offers a compact (3U-rack sized) superconducting nanowire system which offers high
