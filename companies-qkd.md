@@ -97,6 +97,11 @@ Science.
 
 ## Quintessence Labs
 
+Founded in 2008 in Canberra, Australia, QuintessenceLabs offers the strongest security foundation
+for your data. This includes centralized enterprise key and policy management, a high-speed true
+random number generator, an integrated hardware security module, and highly secure encryption for
+data in uncontrolled environments. 
+
 * [Quintessence Labs Homepage](https://www.quintessencelabs.com/)
 * [qOptica 100 Quantum Key Distribution](https://www.quintessencelabs.com/products/quantum-key-distribution-qkd/)
 
