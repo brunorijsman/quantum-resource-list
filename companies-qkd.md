@@ -8,6 +8,10 @@ Quantum Photonics for Cybersecurity.
 
 ## ID Quantique (IDQ)
 
+ID Quantique (IDQ) provides quantum-safe network encryption, secure quantum key generation and 
+quantum key distribution solutions and services to the financial industry, enterprises and 
+government organizations globally.
+
 * [ID Quantique Homepage](https://www.idquantique.com/)
 * [Cerberis3 QKD System](https://www.idquantique.com/quantum-safe-security/products/cerberis3-qkd-system/)
 * [Cerberis QG Series](https://www.idquantique.com/quantum-safe-security/products/cerberis-xg-qkd-system/)
