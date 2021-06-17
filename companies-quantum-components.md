@@ -1,5 +1,12 @@
 # Quantum Components Companies
 
+## Anametric
+
+Anametric is developing new technologies and devices for chip scale quantum photonics, with a focus
+on cybersecurity.
+
+* [Anametric Homepage](https://anametric.com/)
+
 ## Aurea
 
 Aurea Technology offers the "best in class" single photon counting modules.
