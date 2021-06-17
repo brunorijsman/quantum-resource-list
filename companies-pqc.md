@@ -60,6 +60,13 @@ Scalable cryptography for the post-quantum enterprise.
 
 * [QuSecure Homepage](https://www.qusecure.com/)
 
+## The Quantum Resistant Ledger (QRL)
+
+A powerful blockchain platform secured by XMSS: a NIST-approved post-quantum secure digital
+signature scheme
+
+* [The Quantum Resistant Ledger (QRL) Homepage](https://www.theqrl.org/)
+
 ## Qrypt
 
 Qrypt’s post quantum secure encryption protects data indefinitely, delivering everlasting security
