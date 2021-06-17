@@ -6,6 +6,13 @@ Post-quantum encryption for electronical devices from various areas.
 
 * [Alternatio Homepage](https://alternatio.pl/)
 
+## BLAKFX
+
+BLAKFX provides a holistic approach to cybersecurity to enable businesses and nations to be
+resilient in the face of cyber threats from state and non-state actors. 
+
+* [BLAKFX Homepage](https://blakfx.com/)
+
 ## CrytoNext Security
 
 The CryptoNext Quantum-Safe Library CryptoNext has developed a cryptographic library that provides
