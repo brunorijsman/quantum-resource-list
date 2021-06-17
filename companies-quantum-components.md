@@ -140,6 +140,13 @@ Your high-performance quantum entropy source.
 
 * [QuSide Homepage](https://www.quside.com/)
 
+## S-Fifteen Instruments
+
+We are a spinoff company from an academic group specializing in photonic quantum technologies for
+secure communication.
+
+* [S-Fifteen Instruments Homepage](https://s-fifteen.com/)
+
 ## Single Quantum
 
 Single Quantum develops the best single photon detectors based on superconducting nanowires.
