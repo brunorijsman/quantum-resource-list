@@ -6,6 +6,12 @@ Post-quantum encryption for electronical devices from various areas.
 
 * [Alternatio Homepage](https://alternatio.pl/)
 
+## Arqit
+
+Symmetric encryption; reborn for the cloud.
+
+* [Arqit Homepage](https://arqit.uk/)
+
 ## BLAKFX
 
 BLAKFX provides a holistic approach to cybersecurity to enable businesses and nations to be
