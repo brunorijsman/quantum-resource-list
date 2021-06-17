@@ -26,6 +26,14 @@ World’s first post-quantum cryptography on a contactless security chip.
 
 * [Infineon PQC](https://www.infineon.com/cms/en/product/promopages/post-quantum-cryptography/)
 
+## IronCap
+
+Quantum-Safe Cryptography designed to operate on conventional computer systems as we know them today
+while at the same time is secure enough to safeguard against future attacks from the world of
+Quantum Computers. 
+
+* [IronCap Homepage](https://www.ironcap.ca/)
+
 ## Quantropi
 
 Fast, efficient digital QKD over the existing Internet. True quantum safety you can count on today,
