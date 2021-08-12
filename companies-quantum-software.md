@@ -149,6 +149,13 @@ of scarce resources in logistics.
 
 * [Phasecraft Homepage](https://www.phasecraft.io/)
 
+## qBraid
+
+qBraid will accelerate the pace of quantum computing in the software space with an accessible one-stop platform 
+for learning and development. The platform provides a comprehensive, cross-platform
+solution that alleviates the friction in learning and developing quantum computing software. 
+* [qBraid Homepage](https://qbraid.com/)
+
 ## QCWare
 
 Enterprise Software and Services for Quantum Computing.
